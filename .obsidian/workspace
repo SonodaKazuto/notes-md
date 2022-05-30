@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "f4993252ca969387",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17fbd09472b1ccf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "selection and median algorithm.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15009c69f3d5ce9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "097e71437cb19c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92dd4579955325f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4babc1731501f6ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb2883f29dd1545c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4dd8e53d90ec5669",
+    "type": "split",
+    "children": [
+      {
+        "id": "602433377c5fd421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff4fd07b85622d4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "selection and median algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "eba07c10d6c5a7af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "selection and median algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d17fbd09472b1ccf",
+  "lastOpenFiles": [
+    "selection and median algorithm.md",
+    "prune and search.md",
+    "binary search algorithm.md",
+    "Priciples of Programming Language.md",
+    "Main Memory.md",
+    "logseq/bak/pages/Cache/2022-05-09T15_23_26.253Z.md",
+    "pages/Principles of Programming Language.md",
+    "pages/Computer Organization.md",
+    "README.md",
+    "pages/Cache.md"
+  ]
+}
